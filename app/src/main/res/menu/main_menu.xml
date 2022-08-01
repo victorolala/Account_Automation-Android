@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/item1"
+        android:title="VICTOR OLALA 0716311660"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/item2"
+        android:title="SAMUEL MATOKE 0797452712"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/item3"
+        android:title="GODWIN MAINA 0703678934"
+        app:showAsAction="never" />
+</menu>
